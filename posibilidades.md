@@ -8,3 +8,8 @@
 8. Pedir tiempo en telescopios que no este over-subscribed.
 9. Comprar tiempo de telescopios.
 10. Construir un observatorio IR/optico.
+11. Encuesta de profesionales colombianos en astronomía.
+12. Sociedad colombiana de astronomía y ciencias del espacio.
+13. The First Colombian Solar Radio Interferometer. 
+14. COLCIENCIAS y la astronomía en Colombia.
+15. Instituto colombiano de astronomía, astrofísica y ciencias del espacio.
