@@ -22,7 +22,8 @@ Lineas de investigacion actual.
 - Planetaria (simulacion de formacion y habitabilidad)
 
 # ECCI
-- Radioastronomia
+- Radioastronomia (Instrumentación)
+- Radioastronomía (Astroquímica - Discos protoplanetarios)
 - Formacion de planetas
 - Astroestadistica
 
