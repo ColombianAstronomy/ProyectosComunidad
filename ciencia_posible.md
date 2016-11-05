@@ -28,7 +28,7 @@
 # Telescopios mm/sub-mm
 
  - Formación Estelar
- - Formación de cúmulos estelares
+ - Gas en cúmulos estelares
  - Astroquímica de discos circunestelares
  - Observaciones resueltas de discos circunestelares
  - Interesados: Germán Chaparro (ECCI), Esteban Silva (ECCI)  
