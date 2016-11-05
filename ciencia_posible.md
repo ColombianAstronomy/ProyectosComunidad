@@ -13,11 +13,16 @@
  - Se puede complementar con observaciones nuevas.
  - Cual seria el caso de ciencia? estructura galactica, evolucion estelar galaxia, features raros.
 
-# Estrellas jóvenes y formación planetaria
+# Estrellas jóvenes y formación planetaria (modelos)
 
- - Telescopios mm/sub-mm
+ - MHD - Interacción disco-estrella
+ - Modelos de formación de sistemas planetarios
+ - Astroquímica de discos circunestelares
+ 
+# Telescopios mm/sub-mm
+
  - Formación Estelar
  - Formación de cúmulos estelares
- - Astroquímica
+ - Astroquímica de discos circunestelares
  - Observaciones resueltas de discos circunestelares
  
