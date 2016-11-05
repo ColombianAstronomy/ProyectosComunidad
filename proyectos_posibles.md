@@ -1,4 +1,4 @@
-# Poblaciones estalares
+# Poblaciones estelares
 
 - Linea de iempo y comparacion espectral con resolucion de estrellas.
 - Formacion estelar dentro/fuera brazos.
