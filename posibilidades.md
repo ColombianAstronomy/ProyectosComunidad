@@ -17,3 +17,7 @@
 | Encuesta de profesionales colombianos en astronomía (?).| | |
 | The First Colombian Solar Radio Interferometer. | | |
 | COLCIENCIAS y la astronomía en Colombia (?)| | |
+| Participación en NENUFAR (Radio)| 5-10| 0-1000|
+| Rehabilitación Chocontá (Radio)| 5-10| 5000|
+
+
