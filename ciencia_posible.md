@@ -18,6 +18,7 @@
  - MHD - Interacción disco-estrella
  - Modelos de formación de sistemas planetarios
  - Astroquímica de discos circunestelares
+ - Interesados: Carlos Molina, Germán Chaparro, Giovanni Pinzón, Pablo Cuartas
  
 # Telescopios mm/sub-mm
 
@@ -25,4 +26,10 @@
  - Formación de cúmulos estelares
  - Astroquímica de discos circunestelares
  - Observaciones resueltas de discos circunestelares
+ - Interesados: Germán Chaparro (ECCI), Esteban Silva (ECCI)  
  
+# Solar
+
+ - Observacion solar gratis en España
+ - Proyectos posibles ???
+ - Interesados: Santiago Vargas (OAN), Fabio Lora (UIS), Jaime Hoyos (UdeM)
