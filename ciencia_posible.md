@@ -17,7 +17,6 @@
 
 # Estrellas jóvenes (modelos)
 
- - Interesados: Carlos Molina, Germán Chaparro, Giovanni Pinzón, Pablo Cuartas
  - **MHD - Interacción disco-estrella: C. Molina, G. Pinzón (?)**
 
 # Poblaciones planetarias
@@ -39,3 +38,7 @@
  - Observacion solar gratis en España
  - Proyectos posibles ???
  - Interesados: Santiago Vargas (OAN), Fabio Lora (UIS), Jaime Hoyos (UdeM)
+ 
+# Astropartículas
+
+ - ???
