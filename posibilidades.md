@@ -13,11 +13,10 @@
 | [Consorcio PACA](https://github.com/ColombianAstronomy/ProyectosComunidad/blob/master/PACA.pdf) | 5 | 3000 |
 | Construir un observatorio IR/optico.| 5 | 5000 |
 | Instituto colombiano de astronomía, astrofísica y ciencias del espacio.| 5 | 5000 |
-| Hacer parte de [NenuFar](https://nenufar.sciencesconf.org/?lang=en) | | | 
+| Hacer parte de [NenuFar](https://nenufar.sciencesconf.org/?lang=en) | 5-10| 0-1000| 
 | Encuesta de profesionales colombianos en astronomía (?).| | |
 | The First Colombian Solar Radio Interferometer. | | |
 | COLCIENCIAS y la astronomía en Colombia (?)| | |
-| Participación en NENUFAR (Radio)| 5-10| 0-1000|
 | Rehabilitación Chocontá (Radio)| 5-10| 5000|
 
 
