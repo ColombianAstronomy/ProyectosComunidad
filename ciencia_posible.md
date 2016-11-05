@@ -11,7 +11,7 @@
  - Datos publicos: Gaia, SEGUE, SDSS
  - Tenemos posibilidad de simular.
  - Se puede complementar con observaciones nuevas.
- - Cual seria el caso de ciencia? estructura galactica, evolucion estelar galaxia, featueres raros.
+ - Cual seria el caso de ciencia? estructura galactica, evolucion estelar galaxia, features raros.
 
 # Estrellas jóvenes y formación planetaria
 
