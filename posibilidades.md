@@ -10,7 +10,7 @@
 | Diseño-Construccion de un survey de time-domain con un telescopio de <50cm.| 4 | 100 | 
 | Diseño-Construccion de un survey de low-surface brightness objects con telecopio de < 50cm.| 4 | 100 |
 | Consolidar participación colombiana en un consorcio grande tipo LSST.| 4 | 100 |
-| Consorcio PACA | 5 | 3000 |
+| [Consorcio PACA](https://github.com/ColombianAstronomy/ProyectosComunidad/blob/master/PACA.pdf) | 5 | 3000 |
 | Construir un observatorio IR/optico.| 5 | 5000 |
 | Instituto colombiano de astronomía, astrofísica y ciencias del espacio.| 5 | 5000 |
 | Encuesta de profesionales colombianos en astronomía (?).| | |
