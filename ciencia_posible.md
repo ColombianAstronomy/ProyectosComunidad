@@ -1,25 +1,31 @@
 
 # Formacion Estelar (poblaciones estelares)
 
- - Datos publicos: CALIFA, MARVELS.
+ - Datos publicos: CALIFA, MANGA.
  - Tenemos posibilidades de simular.
  - Se puede complementar con observaciones nuevas.
  - Interesados: E. Silva, J.C, Munoz, J.R. Martinez, J. Forero
+ - **Análisis de datos de CALIFA: J. C. Muñoz, J. Forero, E. Silva, J. Rodríguez, G. Chaparro**
 
-# Astroestadistica.
+# Evolución Estelar Galáctica
 
- - Datos publicos: Gaia, SEGUE, SDSS
+ - Datos publicos: Gaia, SEGUE
  - Tenemos posibilidad de simular.
  - Se puede complementar con observaciones nuevas.
  - Cual seria el caso de ciencia? estructura galactica, evolucion estelar galaxia, features raros.
+ - **Identificación de streams/estructuras: J. C. Muñoz, J. Forero, E. Silva, C. Molina**
 
-# Estrellas jóvenes y formación planetaria (modelos)
+# Estrellas jóvenes (modelos)
 
- - MHD - Interacción disco-estrella
+ - Interesados: Carlos Molina, Germán Chaparro, Giovanni Pinzón, Pablo Cuartas
+ - **MHD - Interacción disco-estrella: C. Molina, G. Pinzón (?)**
+
+# Poblaciones planetarias
+
  - Modelos de formación de sistemas planetarios
  - Astroquímica de discos circunestelares
- - Interesados: Carlos Molina, Germán Chaparro, Giovanni Pinzón, Pablo Cuartas
- 
+ - **Formación de planetas terrestres/gigantes (modelos vs. bases de datos): P. Cuartas, G. Chaparro**
+
 # Telescopios mm/sub-mm
 
  - Formación Estelar
