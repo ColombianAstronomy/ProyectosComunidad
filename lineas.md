@@ -1,7 +1,6 @@
 Lineas de investigacion actual.
 
 # UNAL
-- Relatividad
 - Agujeros Negros (Singularidades, Teorico)
 - Cosmologia (Teorico, Relatividad Genral)
 - Astrofisica Solar
