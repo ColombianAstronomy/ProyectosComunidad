@@ -23,7 +23,7 @@
 
  - Modelos de formación de sistemas planetarios
  - Astroquímica de discos circunestelares
- - **Formación de planetas terrestres/gigantes (modelos vs. bases de datos): P. Cuartas, G. Chaparro**
+ - **Formación de planetas terrestres/gigantes (modelos vs. bases de datos): P. Cuartas, G. Chaparro, J. Rodríguez**
 
 # Telescopios mm/sub-mm
 
