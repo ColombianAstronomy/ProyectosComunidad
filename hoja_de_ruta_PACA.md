@@ -1,4 +1,4 @@
- #Hoja de Ruta para PACA (Programa de Aceleración del Crecimiento de la Astronomía en Colombia) v. 0.1
+ # Hoja de Ruta para PACA (Programa de Aceleración del Crecimiento de la Astronomía en Colombia) v. 0.1
  
  ## Qué
  
@@ -29,14 +29,19 @@
   
  ## Líneas de Trabajo
  
- - Análisis de datos de CALIFA: J. C. Muñoz, J. Forero, E. Silva, J. Rodríguez, G. Chaparro
- - Identificación de streams/estructuras: J. C. Muñoz, J. Forero, E. Silva, C. Molina
- - MHD - Interacción disco-estrella: C. Molina, G. Pinzón (?)
- - Formación de planetas terrestres/gigantes (modelos vs. bases de datos): P. Cuartas, G. Chaparro, J. Rodríguez
-
- 
+ - Poblaciones Estelares (Análisis de datos de CALIFA/MANGA) J. C. Muñoz, J. Forero, E. Silva, J. Rodríguez, G. Chaparro
+ - Evolución Estelar Galáctica (Identificación de streams/estructuras con GAIA): J. C. Muñoz, J. Forero, E. Silva, C. Molina
+ - Estrellas Jóvenes (MHD - Interacción disco-estrella): C. Molina, G. Pinzón (?)
+ - Poblaciones Planetarias (Formación de planetas terrestres/gigantes): P. Cuartas, G. Chaparro, J. Rodríguez
  
  ## Cronograma
+
+Fase 1:
+
+
+
+
+
  ## Resultados
   - En Diciembre '16: Objetivos/casos científicos claros 
   - 
