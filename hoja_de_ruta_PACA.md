@@ -6,7 +6,7 @@
  
 ## Estado Actual
  
- Colaboración de personas alrededor de casos científicos concretos con proyección a buscar apoyo institucional en un plazo menor a dos añois
+ Colaboración de personas alrededor de casos científicos concretos con proyección a buscar apoyo institucional en un plazo menor a dos años
  
 ## Quién
  
@@ -36,15 +36,20 @@
  
 ## Cronograma
 
-Fase 1:
+ - Reunión Anual de PACA - Fin de año - (Workshop)
 
+### Fase 1 (1 año):
 
+ - Identificar e iniciar la producción proyectos
+ - Asociar a 1-2 estudiantes de Maestría por proyecto
+ - Evaluar la sostenibilidad del Programa y de las Líneas
+ - Movilidad de estudiantes e investigadores para trabajar en los proyectos
+ - Diciembre '16: Objetivos/casos científicos claros 
+ - Diciembre '17: Producir al menos un preprint
+ 
+### Fase 2 (1 años):
 
-
-
-## Resultados
-  - En Diciembre '16: Objetivos/casos científicos claros 
-  - 
   
 ## Evaluación
+
 
