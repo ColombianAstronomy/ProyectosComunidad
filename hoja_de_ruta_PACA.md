@@ -1,4 +1,4 @@
- # Hoja de Ruta para PACA (Programa de Aceleración del Crecimiento de la Astronomía en Colombia) v. 0.1
+ #Hoja de Ruta para PACA (Programa de Aceleración del Crecimiento de la Astronomía en Colombia) v. 0.1
  
  ## Qué
  
