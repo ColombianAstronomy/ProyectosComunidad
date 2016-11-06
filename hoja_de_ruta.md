@@ -24,14 +24,17 @@
  
   - Formación de personal
   - Estímulo a la producción científica
-  - Fortalecer la colaboración científica entre los investigadores
-  - Lograr financiación estable y duradera de la Astronomía en Colombia
+  - Fortalecer la colaboración científica 
+  - Financiación estable y duradera
   
- 
  ## Líneas de Trabajo
+ 
+ 
+ 
  ## Cronograma
  ## Resultados
- ## Evaluación
   - En Diciembre '16: Objetivos/casos científicos claros 
   - 
- 
+  
+  ## Evaluación
+
