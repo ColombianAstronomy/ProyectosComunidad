@@ -8,7 +8,9 @@ Propuesta: Realizar un estudio sobre las distribuciones de parámetros relevante
 
 * Germán (+1 Estudiante MSc Fis) - Produce datos de sistemas planetarios sintéticos 
 * Pablo (+1 Estudiante BSc Astro) - Analiza las distribuciones posteriores de masa, radio de eje semi-mayor, etc.
-* Julián (+1 Estudiante BSc Ing)- Optimización del código
+** Julián (+1 Estudiante BSc Ing)- Optimización del código
+
+
 
 * Fase 0: Diagnosticar región de parámetros (masas estelares, metalicidades, etc.)
 * Fase 1: Producir 1era tanda de sistemas con versión alfa de código paralelo.
