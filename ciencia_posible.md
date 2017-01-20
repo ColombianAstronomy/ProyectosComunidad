@@ -1,5 +1,6 @@
+# Temas comunes
 
-# Formacion Estelar (poblaciones estelares)
+## Formacion Estelar (poblaciones estelares)
 
  - Datos publicos: CALIFA, MANGA.
  - Tenemos posibilidades de simular.
@@ -7,7 +8,7 @@
  - Interesados: E. Silva, J.C, Munoz, J.R. Martinez, J. Forero
  - **Análisis de datos de CALIFA: J. C. Muñoz, J. Forero, E. Silva, J. Rodríguez, G. Chaparro**
 
-# Evolución Estelar Galáctica
+## Evolución Estelar Galáctica
 
  - Datos publicos: Gaia, SEGUE
  - Tenemos posibilidad de simular.
@@ -15,17 +16,17 @@
  - Cual seria el caso de ciencia? estructura galactica, evolucion estelar galaxia, features raros.
  - **Identificación de streams/estructuras: J. C. Muñoz, J. Forero, E. Silva, C. Molina**
 
-# Estrellas jóvenes (modelos)
+## Estrellas jóvenes (modelos)
 
  - **MHD - Interacción disco-estrella: C. Molina, G. Pinzón (?)**
 
-# Poblaciones planetarias
+## Poblaciones planetarias
 
  - Modelos de formación de sistemas planetarios
  - Astroquímica de discos circunestelares
  - **Formación de planetas terrestres/gigantes (modelos vs. bases de datos): P. Cuartas, G. Chaparro, J. Rodríguez**
 
-# Telescopios mm/sub-mm
+## Telescopios mm/sub-mm
 
  - Formación Estelar
  - Gas en cúmulos estelares
@@ -33,13 +34,13 @@
  - Observaciones resueltas de discos circunestelares
  - Interesados: Germán Chaparro (ECCI), Esteban Silva (ECCI)  
  
-# Solar
+## Solar
 
  - Observacion solar gratis en España
  - Proyectos posibles ???
  - Interesados: Santiago Vargas (OAN), Fabio Lora (UIS), Jaime Hoyos (UdeM)
  
-# Astropartículas
+## Astropartículas
 
  - ???
  
